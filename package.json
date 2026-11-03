@@ -1,0 +1,11 @@
+{
+  "name": "raid-night-pantry",
+  "version": "1.0.0",
+  "description": "Offline FFXIV consumable log: food, potions and melds, stock checklist with restock reminders, cost per raid night. LocalStorage only, no backend, no login.",
+  "license": "MIT",
+  "author": "Asdale Dynamics, LLC",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/"
+  }
+}
